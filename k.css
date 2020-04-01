@@ -1,0 +1,81 @@
+.headd{
+	background: url("https://cdn.pixabay.com/photo/2015/11/26/22/28/girl-1064664_1280.jpg");
+	background-size: cover;
+	height: 500px;
+	margin-top: 0;
+
+}
+.hea{
+	font-size: 22px;
+	text-align: center;
+	color: green;
+}
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2017/09/05/22/58/background-2719560_1280.jpg);
+	background-size: cover;
+}
+
+img{
+	width: 150px;
+}
+
+h1{
+	color: black;
+}
+h2{
+	color:bleu;
+}
+.cocktail{
+display: flex;
+}
+imgg{
+	width: 400px
+}
+.big{
+background:url(https://images.unsplash.com/photo-1516920846492-81bc6da9fc38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1949&q=80);
+background-size: cover;
+height: 400px;
+margin-top: 0%;
+float: all;
+
+}
+
+.ph{
+	height:300px;
+	width: 400px;
+}
+
+footer{
+  padding-top: 600px;
+}
+.texte{
+	font-size: 22px;
+	text-align: center;
+	color: green;
+}
+.photo{
+	width: 800px;
+
+}
+.bar{
+background: url(https://cdn.pixabay.com/photo/2015/07/02/10/27/bar-828768_1280.jpg);
+background-size: cover;
+height: 500px;
+margin-top: 0%;
+text-decoration: underline;
+
+}
+.barr
+{
+font-size: 22px;
+text-shadow: 15%;
+text-align: center;
+
+}
+.note
+{
+.note{
+border:1px dotted #CCCCCC;
+padding:0.5em;
+text-shadow: 5px;
+}
